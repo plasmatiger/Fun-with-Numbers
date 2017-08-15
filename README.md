@@ -4,8 +4,6 @@ This repo is all about some unique numbers, observations. Some are mathematical,
 Table of Contents
 =================
 1.  [Some ratios](#ratios)
-    -[Golden ratio](#golden_ratio)
-    -[0.61 ratio](#fun_ratio)
 2.  [An observation of modulo inverse](#inverse)
     
 ## Some ratios
